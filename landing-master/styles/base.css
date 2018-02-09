@@ -1,0 +1,157 @@
+.input {
+	width: 240px !important;
+	height: 40px !important;
+	border-radius: 5px !important;
+	border: none;
+	padding: 13px 16px;
+	font-family: "PT Sans" !important;
+}
+
+.btn {
+	font-family: "PT Sans" !important;
+	height: 40px !important;
+	padding: 0 20px !important;
+	cursor: pointer;
+}
+
+.btn-orange {
+	background-color: #f9c247;
+	color: white;
+}
+
+.btn-trans, .btn-trans-yellow {
+	height: 42px !important;
+	background: transparent;
+	color: white;
+	border: 1px solid #666666 !important;
+	padding-right: 8px !important; 
+	font-family: "PT Sans" !important;
+	font-size: 16px !important;
+	font-weight: 400 !important;
+	line-height: 0 !important;
+}
+.btn-trans-yellow{
+	color:#000000 !important;
+	background-color: #f9c247 !important;
+	border: none !important;
+}
+
+
+.btn-lang {
+	padding: 0 6px !important;
+	background: transparent;
+	color: white;
+	text-decoration: underline;
+	width: 43px;
+}
+
+.btn-lang:hover{
+	background: #333333 !important;
+	text-decoration: underline;
+}
+
+.btn-lang:focus {
+	background: #333333 !important;
+	text-decoration: underline;
+	box-shadow: none !important;
+}
+
+.btn-city{
+	padding: 0 7px !important;
+	background: transparent;
+	color: #00c2d4 !important;
+	text-decoration: none !important;
+	min-width: 50px !important;
+}
+.btn-city:hover{
+	background: #aaa6a6 !important;
+	color:black !important;
+	border-radius: 5px;
+}
+.btn-city:focus{
+	background: #aaa6a6 !important;
+	box-shadow: none !important;
+	color:black !important;
+	border-radius: 5px;
+}
+.foot-footer{
+	position: absolute;
+	bottom: 0;
+	height: 75px;
+	width: 100%;
+	border-top-style: solid;
+	border-top-width: 2px; 
+	color: #acacac;
+	align-items: center;
+	font-size:14px !important; 
+}
+
+/* h */
+.h-1 {
+	font-family: 'PT Sans' !important;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56px;
+}
+
+.h-2 {
+	font-family: "PT Sans" !important;
+	font-size: 38px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.h-3 {
+	font-family: "PT Sans" !important;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.h-4 {
+	font-family: "PT Sans" !important;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.h-5 {
+	font-family: "PT Sans" !important;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+/* color */
+.white {
+	color: #ffffff !important;
+}
+.med-image{
+	max-height: 38px;
+}
+.foot-image{
+	max-height: 24px;
+}
+
+
+.aside{
+	background-color: rgba(0, 0, 0, 0.8);
+	min-height:70px;
+	align-items: center;
+	position: absolute;
+	bottom:0;
+	left:0;
+	margin-left:0 !important;
+	width:100%;
+	padding:0 30px 0 30px;
+}
+.btn-yellow {
+	position:absolute;
+	bottom: 40px;
+	width:100%;
+}
+.ver-foot{
+	position: absolute;
+	width:100%;
+	top: 30px;
+}
