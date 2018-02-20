@@ -1,0 +1,88 @@
+@media screen and (min-width: 1367px){
+	.btn-trans{
+		font-size: 16px !important;
+	}
+	.fa-phone, .number1,.number2{
+		font-size: 16px;
+	}
+	.menu-text{
+		font-size: 20px;
+		top:30px;
+		right: 80px;
+	}
+	ul li a{
+		font-size:16px;
+	}
+	.social{
+		font-size: 20px;
+	}
+}
+
+
+
+@media screen and (max-width: 992px) and (min-width: 769px){
+	.name{
+		font-size: 30px;
+	}
+	.l-name{
+		font-size: 16px;
+	}
+	.btn-trans{
+		font-size: 9px !important;
+		margin:0;
+		padding: 0;
+		position: fixed;
+		left: 42%;
+		top: 23%;
+	}
+	.row{
+		margin-top: 15px;
+	}
+	
+}
+
+@media screen and (max-width: 768px){
+	.name{
+		font-size: 20px;
+		
+	}
+	.l-name{
+		font-size: 14px;
+		
+	}
+	.btn-trans{
+		font-size: 8px !important;
+		margin:0;
+		padding: 0;
+	}
+	.sidebar{
+		width: 200px;
+		right: -200px;
+	}
+	.menu-text{
+		font-size: 12px;
+	}
+	ul li a{
+		font-size:12px;
+	}
+	.social{
+		font-size: 18px;
+	}
+	
+} 
+
+@media screen and (max-width: 599px) {
+	.sidebar{
+		width: 180px;
+		right: -180px;
+	}
+	.menu-text{
+		font-size: 11px;
+	}
+	ul li a{
+		font-size:12px;
+	}
+	.social{
+		font-size: 18px;
+	}
+}
